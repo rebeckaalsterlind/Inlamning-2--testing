@@ -1,0 +1,19 @@
+{
+  "name": "inlamning-2--testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeckaalsterlind/Inlamning-2--testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeckaalsterlind/Inlamning-2--testing/issues"
+  },
+  "homepage": "https://github.com/rebeckaalsterlind/Inlamning-2--testing#readme"
+}
