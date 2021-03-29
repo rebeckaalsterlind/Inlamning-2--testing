@@ -9,12 +9,7 @@ test("return string reversed", () => {
 });
 
 test("return true if is palindrome and false if not", () => {
-    expect(isPalindrome("rotator")).toBeTruthy()
-    expect(isPalindrome("notPalindrome")).toBe(false)
+   expect(isPalindrome("rotator")).toBe(true)
+   expect(isPalindrome("notPalindrome")).toBe(false);
 });
 
-
-// test("shall return true if is palindrome and false if not", () => {
-//     expect(isPalindrome("rotator")).toBeTrue()
-//     //expect(isPalindrome("notPalindrome").toBe(false));
-// })
